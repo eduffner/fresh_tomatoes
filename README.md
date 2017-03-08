@@ -1,7 +1,7 @@
 # fresh_tomatoes
 
 ## Install Pyth#n#
-[here](https://www.python.org/)
+[Here](https://www.python.org/)
 
 ## Run the Program
 Run entertainment_center.py in IDLE or from the command line.
